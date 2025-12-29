@@ -1,4 +1,4 @@
-# My Awesome Project
+# My Super Project
 
 # My Project Palan
 
