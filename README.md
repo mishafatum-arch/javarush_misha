@@ -1,4 +1,4 @@
-# javarush_misha
+# My Awesome Project
 
 # My Project Palan
 
