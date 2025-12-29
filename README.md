@@ -1,6 +1,6 @@
 # javarush_misha
 
-# My Priject Palan
+# My Project Palan
 
 - Initialise the project repository
 - Add the main eature
