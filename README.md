@@ -1,4 +1,4 @@
-# javarush_misha
+# My Super Project
 
 # My Project Palan
 
@@ -7,3 +7,8 @@
 - Create unit rests
 - Update the documentation
 - Prepare for the first release
+
+
+## Usage Exampl
+
+Here are some common examples оа
